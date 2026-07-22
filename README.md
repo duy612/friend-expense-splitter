@@ -1,0 +1,1 @@
+# friend-expense-splitter
